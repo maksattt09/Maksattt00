@@ -5,3 +5,7 @@ print('Hello maksat')
 
 for i in range(1, 11):
     print(i)
+
+def a(s):
+    print(s)
+a('hi')
